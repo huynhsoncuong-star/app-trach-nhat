@@ -1,0 +1,8 @@
+{
+ "cap_nhat": "2026-11-25",
+ "ban_con_hieu_luc": [
+  "v1.6.5-20261125"
+ ],
+ "loi_nhan": "Bản này đã được thu hồi ngày 25/11/2026. Hãy mở bản mới.",
+ "ghi_chu_noi_bo": "Thu hồi thêm bản nào: xoá mã bản đó khỏi ban_con_hieu_luc rồi tải lại tệp này, hoặc nhập mã bản vào mục 'Thu hồi theo BẢN' ở trang quản trị."
+}
