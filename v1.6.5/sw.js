@@ -1,5 +1,5 @@
 // Huyền Không Trạch Nhật — bộ nhớ đệm riêng, tiền tố 'trachnhat-'
-const CACHE='trachnhat-v165-20261125', PFX='trachnhat-';
+const CACHE='trachnhat-v165-20261127', PFX='trachnhat-';
 const CORE=['./','./index.html','./manifest.json','./icon-192.png','./icon-512.png','./icon-180.png'];
 self.addEventListener('install',e=>{self.skipWaiting();
   e.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE).catch(()=>{})));});
